@@ -13,7 +13,7 @@ In order to attack the honeypot the following command was used:
 
 GIF Walkthrough:
 Here is a gif showing the result of total attacks at the time this screen capture was taken along with the attack performed using nmap.
-[Walkthrough] (https://gfycat.com/gifs/detail/HandmadeCheeryHorseshoecrab)
+[Walkthrough](https://gfycat.com/gifs/detail/HandmadeCheeryHorseshoecrab)
 
 # Issues Encountered:
 When retrieving the json file I ran into this problem a shown in the linked photo.
