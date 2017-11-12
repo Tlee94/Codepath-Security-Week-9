@@ -1,6 +1,6 @@
 # Codepath-Security-Week-9
 
-#Honeypot 1
+# Honeypot 1
 The use of honeypots can be a good way to analyze/identify an attack.  Honeypots can prevent threats towards the user as well.  This weeks 
 assignment required us to set up a honeypot by creating a server and the honeypot.  The server was used to detect various types of attacks
 identifying the country and port the attack came from.  Using nmap allowed us to test and see the honeypot in action, such that we used nmap
