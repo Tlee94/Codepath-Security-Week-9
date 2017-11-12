@@ -17,6 +17,6 @@ Here is a gif showing the result of total attacks at the time this screen captur
 
 # Issues Encountered:
 When retrieving the json file I ran into this problem a shown in the linked photo.
-https://imgur.com/a/azaeN
+[Issue](https://imgur.com/a/azaeN)
 
 Google Cloud Platform took a long time to set up.  After installation for GCP, the assignment went smooth.
